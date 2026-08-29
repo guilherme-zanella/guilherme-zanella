@@ -1,4 +1,15 @@
-## Olá, este é meu perfil! 👋
+<h1>Olá, este é meu perfil! 👋</h1>
+
+<h2>Deixe-me apresentar</h2>
+<p>Me chamo <strong>Guilherme</strong> tenho <strong>14</strong> anos, descobri essa área graças aos cursos do Gustavo Guanabara, desde então estudo todos os dias para no futuro me tornar um grande programador.</p>
+
+<h2>Cursos feitos</h2>
+<ul>
+  <li>Python</li>
+  <li>HTML e CSS</li>
+  <li>JavaScript</li>
+  <li>Git e Github</li>
+</ul>
 
 ## 🐍 Minhas contribuições
 
@@ -19,17 +30,3 @@
   />
 </picture>
 
-<!--
-**guilherme-zanella/guilherme-zanella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
