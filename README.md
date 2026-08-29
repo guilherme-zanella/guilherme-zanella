@@ -18,7 +18,7 @@
   </a>
 </div>
 
-## 🐍 Minhas contribuições
+<h2>🐍 Minhas contribuições</h2>
 
 <picture>
   <source
