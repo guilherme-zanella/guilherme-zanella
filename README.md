@@ -1,6 +1,6 @@
 ## Olá, este é meu perfil! 👋
 
-## 🐍 My Contributions
+## 🐍 Minhas contribuições
 
 <picture>
   <source
@@ -15,7 +15,7 @@
 
   <img
     alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/guilherme-zanella/github-snake/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/guilherme-zanella/github-snake/output/github-snake-dark.svg"
   />
 </picture>
 
