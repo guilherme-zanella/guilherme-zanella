@@ -14,7 +14,7 @@
 <h2>📈 Estatísticas</h2>
 <div>
   <a href="https://github.com/guilherme-zanella">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=guilherme-zanella&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=guilherme-zanella&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent&hide=stars"/>
   </a>
 </div>
 
